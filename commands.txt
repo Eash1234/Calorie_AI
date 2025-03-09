@@ -1,0 +1,7 @@
+pip install django djangorestframework openai huggingface_hub
+
+python manage.py makemigrations
+
+python manage.py migrate
+
+python manage.py runserver

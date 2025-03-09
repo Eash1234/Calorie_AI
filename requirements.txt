@@ -1,0 +1,6 @@
+openai
+django
+djangorestframework
+huggingface_hub
+
+#python 3.8.10
